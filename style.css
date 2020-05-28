@@ -1,0 +1,19 @@
+body {
+  background-color: #ecf0f1;
+}
+
+h1 {
+  color: #2c3e50;
+  padding-top: 30px;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+#root{
+  text-align: center;
+}
+
+canvas {
+    height: 500px;
+    width: 500px;
+    margin-top: 5px;
+  }
